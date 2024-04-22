@@ -6,3 +6,8 @@
 - 💬 Ask me about Python, PyQT, SQL(mySQL, SQL, Postres), Nodejs, Reactjs, Socket.io, Networking Protocols/Comunications, or anything really!
 - 📫 How to reach me: e-mail is best! patmaynard452@hotmail.com
 - 😄 Pronouns: He/Him
+
+
+## Get in Touch 📬
+
+- **[LinkedIn]** https://www.linkedin.com/in/pat-maynard-b97a05b5/
